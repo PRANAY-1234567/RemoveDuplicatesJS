@@ -1,4 +1,4 @@
-# 📘 README — RemoveDuplicate JavaScript Function
+ 📘 README — RemoveDuplicate JavaScript Function
 
 ## 📌 Description
 
