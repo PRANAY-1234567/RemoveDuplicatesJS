@@ -69,7 +69,7 @@ function RemoveDuplicate(arr){
 
 ---
 
-## 👨‍💻 Purpose
+ 👨‍💻 Purpose
 
 This function is commonly used in beginner-level JavaScript programs to understand:
 
