@@ -78,3 +78,7 @@ This function is commonly used in beginner-level JavaScript programs to understa
 * Array handling
 
 ---
+
+👨‍💻 Author
+
+Pranay Jadhao
