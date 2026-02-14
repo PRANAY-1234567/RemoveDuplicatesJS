@@ -1,6 +1,6 @@
  📘 README — RemoveDuplicate JavaScript Function
 
-## 📌 Description
+📌 Description
 
 This JavaScript function **`RemoveDuplicate`** is used to remove duplicate values from an array and return a new array containing only **unique elements**.
 
