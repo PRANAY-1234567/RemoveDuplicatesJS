@@ -3,7 +3,6 @@
 📌 Description
 
 This JavaScript function **`RemoveDuplicate`** is used to remove duplicate values from an array and return a new array containing only **unique elements**.
-
 It uses the built-in **`Set`** object, which automatically stores only unique values.
 
 ---
